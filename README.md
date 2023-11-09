@@ -1,8 +1,8 @@
-![Hollux](https://i.postimg.cc/SKm6ZkSy/Screenshot-1355.png)
+![Tramore](https://i.postimg.cc/SKm6ZkSy/Screenshot-1355.png)
 
-# Hollux
+# Tramore
 
-Hollux is a hotel website that can be used for online reservations. Built using the [TALL Stack](https://tallstack.dev/): [Tailwind CSS 3](https://tailwindcss.com/), [AlpineJS 3](https://alpinejs.dev/), [Livewire 2](https://laravel-livewire.com/), [Laravel 9](https://laravel.com/). I actually made the UI here myself using Tailwind CSS and AplineJS without using any templates at all.
+Tramore is a hotel website that can be used for online reservations. Built using the [TALL Stack](https://tallstack.dev/): [Tailwind CSS 3](https://tailwindcss.com/), [AlpineJS 3](https://alpinejs.dev/), [Livewire 2](https://laravel-livewire.com/), [Laravel 9](https://laravel.com/). I actually made the UI here myself using Tailwind CSS and AplineJS without using any templates at all.
 
 ## Roles
 
@@ -24,7 +24,7 @@ The receptionist can check the check-in or check-out data from the user or guest
 
 ![User Dashboard](https://i.postimg.cc/PqttNF43/Screenshot-1364.png)
 
-The user here is a guest for this Hollux hotel. Users can make online reservations and review facilities and rooms if desired.
+The user here is a guest for this Tramore hotel. Users can make online reservations and review facilities and rooms if desired.
 
 ## Feature
 
